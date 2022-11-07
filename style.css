@@ -944,7 +944,7 @@
     transition: width 2s, height 2s;
   }
 
-.block {
+  .block {
     display: block;
     flex-direction: column;
     width: 448px;
@@ -1463,7 +1463,7 @@
   from { color: green; }
   to { color: red; }
 }
- 
+
 #img-deskt:hover {
   width: 600px;
   height: 400px;
