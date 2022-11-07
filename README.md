@@ -1,5 +1,6 @@
 ﻿# Portfolio
->The project is a setup of a mobile first portfolio
+
+>The portfolio project is a setup of a mobile first and its Desktop version. 
 
 ## Built With
 - HTML.
