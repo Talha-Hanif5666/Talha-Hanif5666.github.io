@@ -6,7 +6,7 @@
 - CSS.
 
 ## Online version of website
-🔗 [Mint's Sign up page](https://talha-hanif5666.github.io/)
+🔗 [Live Demo link](https://talha-hanif5666.github.io/)
 
 ## Getting Started
 
