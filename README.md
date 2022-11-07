@@ -1,9 +1,12 @@
-# Portfolio
+﻿# Portfolio
 >The project is a setup of a mobile first portfolio
 
 ## Built With
 - HTML.
 - CSS.
+
+## Online version of website
+🔗 Mint's Sign up page](https://talha-hanif5666.github.io/
 
 ## Getting Started
 
