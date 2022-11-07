@@ -103,8 +103,6 @@
     animation-duration: 6s;
   }
 
-  
-
   .secondary-text {
     width: 327px;
     height: 27px;
@@ -943,10 +941,10 @@
   }
 
   #img-deskt {
-  transition: width 2s, height 2s;
+    transition: width 2s, height 2s;
   }
 
-  .block {
+.block {
     display: block;
     flex-direction: column;
     width: 448px;
@@ -1462,8 +1460,8 @@
 }
 
 @keyframes color-change {
-  from {color: green;}
-  to {color: red;}
+  from { color: green; }
+  to { color: red; }
 }
  
 #img-deskt:hover {
